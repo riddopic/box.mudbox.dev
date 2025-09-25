@@ -152,7 +152,7 @@ GEM
       open4 (>= 0.4.0)
     posix-spawn (0.3.10)
     progressbar (0.21.0)
-    rack (1.6.0)
+    rack (2.2.18)
     rake (10.4.2)
     ruby-vnc (1.0.1)
     rubyntlm (0.1.1)
